@@ -5,5 +5,5 @@
 gpg visao_computacional_deep_learning_cnn.pdf.gpg
 
 ```
-Vai pedir a senha. A senha você pega diretamente comigo.
+Obviamente não publico a senha.
 
